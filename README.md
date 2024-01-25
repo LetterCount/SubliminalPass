@@ -1,6 +1,6 @@
 # Description:
 
-CLI Password manager written in python.
+CLI Password manager written in python. (yes i know it is basically my name without the "By" part but at least there is a difference 😎)
 
 Features:
 
