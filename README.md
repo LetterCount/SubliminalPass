@@ -20,6 +20,8 @@ Usage:
 3. Choose options to save, retrieve, delete passwords, and perform file operations.
 
 
-Setup (pre-usage of pw manager)
-1. Install Fernet using pip install.
-2. You're done!
+Setup 
+
+1. Set a master password.
+2. Enter your master password.
+3. Done! You can now use SubliminalPass.
