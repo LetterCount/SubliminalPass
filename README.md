@@ -1,27 +1,23 @@
-# Description:
+# SubliminalPass - Simple Password Manager
 
-CLI Password manager written in python. (yes i know it is basically my name without the "By" part but at least there is a difference 😎)
+SubliminalPass is a simple password manager implemented in Python. It allows users to securely store passwords for various websites and retrieve them when needed. The passwords are encrypted and stored locally on the user's machine.
 
-Features:
+## Features
+- **Master Password**: Set a master password to access the password manager functionalities.
+- **Add Passwords**: Add passwords for different websites along with corresponding usernames.
+- **Get Passwords**: Retrieve passwords for specific websites and usernames.
+- **List Websites**: View a list of all websites for which passwords are stored.
+- **Encryption**: Passwords are encrypted and stored securely on the local machine.
 
-1. Master Password: Users need to set a master password to access the password manager.
+## Usage
+1. Clone the repository to your local machine.
+2. Ensure you have Python installed.
+3. Open a terminal and navigate to the directory containing the project files.
+4. Run the `password_manager.py` file using Python:
+5. Follow the prompts to set a master password, authenticate, and use the password manager functionalities.
 
-2. Encryption: Passwords are encrypted before storage, enhancing security.
+## Dependencies
+- Python 3.x
 
-3. Save, Retrieve, Delete: Users can save passwords for various services, retrieve them, and delete them when necessary.
-
-4. File Operations: Users can save the password data to a file and load it from a file for persistence.
-
-5. Secure Input: The getpass library is used to securely input the master password and other sensitive information.
-
-Usage:
-1. Run the script (python password_manager.py).
-2. Enter your master password when prompted.
-3. Choose options to save, retrieve, delete passwords, and perform file operations.
-
-
-Setup 
-
-1. Set a master password.
-2. Enter your master password.
-3. Done! You can now use SubliminalPass.
+## Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
