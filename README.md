@@ -18,3 +18,8 @@ Usage:
 1. Run the script (python password_manager.py).
 2. Enter your master password when prompted.
 3. Choose options to save, retrieve, delete passwords, and perform file operations.
+
+
+Setup (pre-usage of pw manager)
+1. Install Fernet and GetPass using pip install.
+2. You're done!
