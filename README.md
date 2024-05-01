@@ -21,5 +21,5 @@ Usage:
 
 
 Setup (pre-usage of pw manager)
-1. Install Fernet and GetPass using pip install.
+1. Install Fernet using pip install.
 2. You're done!
